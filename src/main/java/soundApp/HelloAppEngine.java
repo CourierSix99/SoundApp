@@ -8,8 +8,8 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 @WebServlet(
-    name = "HelloAppEngine",
-    urlPatterns = {"/hello"}
+    name = "SoundApp",
+    urlPatterns = {"/soundapp"}
 )
 public class HelloAppEngine extends HttpServlet {
 
